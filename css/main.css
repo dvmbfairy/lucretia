@@ -5,25 +5,45 @@
 body {
 	background-color: rgba(100, 120, 60, 0.5);
 	font-family: PT Serif, serif;
+	color: rgb(60, 0, 0);
 }
 
 h1 {
 	font-family: Cinzel, serif;
-	font-size: 3em;
-	color: rgb(60, 0, 0);
+	font-size: 2.5em;
 	margin: 0.5em;
 }
 
+
 .content {
-	margin: 0 auto;
-	width: 500px;
+	margin: 0 100px;
+}
+.content > *{
+	/*margin: 0 50px;*/
+	float:left;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
 }
 
 #lucretia {
 	padding: 10px;
-	border-color: rgb(60, 0, 0);
 	border: solid 2px;
+	border-color: rgb(60, 0, 0);
 	margin: 0px 20px;
 	max-width: 60%;
-	height: auto;
+	max-height: 500px;
 }
+
+/*#text {
+	padding: 10px;
+	border: solid 2px;
+	border-color: rgb(60, 0, 0);
+	margin: 0px 20px;
+}*/
