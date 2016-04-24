@@ -13,3 +13,17 @@ h1 {
 	color: rgb(60, 0, 0);
 	margin: 0.5em;
 }
+
+.content {
+	margin: 0 auto;
+	width: 500px;
+}
+
+#lucretia {
+	padding: 10px;
+	border-color: rgb(60, 0, 0);
+	border: solid 2px;
+	margin: 0px 20px;
+	max-width: 60%;
+	height: auto;
+}
