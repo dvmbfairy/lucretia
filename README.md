@@ -1,13 +1,12 @@
 Critique of Suicide of Lucretia
 ===============================
-Suicide of Lucretia by ???? <--- fill this in
+Suicide of Lucretia by Luca Cambiaso
 
 to do
 -----
-- [ ] alberti-syle critique  
-- [ ] secondary sources  
+- [x] alberti-syle critique  
+- [x] secondary sources  
 - [ ] make website  
-- [ ] not even past write up 
 
 helpful links
 -------------
