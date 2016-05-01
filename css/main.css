@@ -14,6 +14,26 @@ h1 {
 	margin: 0.5em;
 }
 
+#ref {
+	float:right;
+	color: inherit;
+}
+#ref:link {
+    text-decoration: none;
+}
+
+#ref:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+#ref:hover {
+    text-decoration: underline;
+}
+
+#ref:active {
+    text-decoration: underline;
+}
 
 .content {
 	margin: 0 100px;
