@@ -68,3 +68,8 @@ h1 {
 .section {
 	position: absolute;
 }
+
+#text{
+	text-align: justify;
+    text-justify: inter-word;
+}
