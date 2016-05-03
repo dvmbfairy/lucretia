@@ -40,6 +40,7 @@ h1 {
 
 .content {
 	margin: 0 100px;
+	position:relative;
 }
 .content > *{
 	/*margin: 0 50px;*/
@@ -60,8 +61,8 @@ h1 {
 	border: solid 2px;
 	border-color: rgb(60, 0, 0);
 	margin: 0px 20px;
-	max-width: 60%;
-	max-height: 500px;
+	height: 500px;
+	width: auto;
 }
 
 /*#text {
