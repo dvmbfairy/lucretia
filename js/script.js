@@ -23,6 +23,10 @@ $(document).ready(function() {
 	//shadows
 	textContent[6] = "Cambiaso uses chiaroscuro to create shadows on the left side of the image and sparingly uses white to create highlights on Lucretia’s body and the room’s furnishings, indicating that a light source is to the right of the scene. Cambiaso paints in accordance to the theory that “shadows always correspond on the side away from the light...that in no body is a surface illuminated without your finding surfaces on its other side covered in shade” (Alberti 83).";
 
+	$(".section").each(function() {
+		$(this).css("border", "none");
+	});
+
 	$(".section").hover(
 		function() {//mouse in
 			//console.log("entered section "+$(this).attr('id'));
