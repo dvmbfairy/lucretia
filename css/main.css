@@ -15,26 +15,20 @@ h1 {
 	
 }
 
-#ref {
-	float:right;
-	color: inherit;
-	margin: 1.33em;
-	font-weight: bold;
-}
-#ref:link {
-    text-decoration: none;
-}
-
-#ref:visited {
-    text-decoration: none;
-    color: inherit;
-}
-
-#ref:hover {
+a:link {
     text-decoration: underline;
 }
 
-#ref:active {
+a:visited {
+    text-decoration: underline;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
     text-decoration: underline;
 }
 
@@ -72,4 +66,11 @@ h1 {
 #text{
 	text-align: justify;
     text-justify: inter-word;
+}
+
+.references{
+	list-style-type: none;
+}
+.references li{
+	padding-bottom: 10px;
 }
