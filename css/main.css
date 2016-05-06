@@ -17,6 +17,7 @@ h1 {
 
 a:link {
     text-decoration: underline;
+    color: inherit;
 }
 
 a:visited {
@@ -37,7 +38,6 @@ a:active {
 	position:relative;
 }
 .content > *{
-	/*margin: 0 50px;*/
 	float:left;
 }
 
