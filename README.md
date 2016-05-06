@@ -5,6 +5,8 @@ Renaissance at UT Austin. It features a critique of Luca Cambiaso's *The
 Suicide of Lucretia* based on principles described in Leon Battista 
 Alberti's *On Painting*.  
 
+The page is located [here](https://amx.space/lucretia/).
+
 Technical Summary
 -----------------
 This webpage is hosted using Github Pages, which allows for any Github 
