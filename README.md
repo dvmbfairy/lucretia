@@ -1,9 +1,9 @@
 The Suicide of Lucretia
 =======================
 This is a webpage created as a final project for HIS353G: Italian 
-Renaissance at UT Austin. It features a critique of Luca Cambiaso's The 
-Suicide of Lucretia based on principles described in Leon Battista 
-Alberti's On Painting.  
+Renaissance at UT Austin. It features a critique of Luca Cambiaso's *The 
+Suicide of Lucretia* based on principles described in Leon Battista 
+Alberti's *On Painting*.  
 
 Technical Summary
 -----------------
@@ -29,3 +29,5 @@ section, the script changes the content of the textbox to the matching
 critique segment. When a cursor hovers out of the section, the textbox 
 content is restored to the default text. Below is an image of the 
 different sections made visible.
+
+![Image of Sections](img/boxes.png)
